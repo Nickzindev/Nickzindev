@@ -79,8 +79,8 @@
 <details>
   <summary><h3><img src="https://media.tenor.com/akBy6qWGjs4AAAAi/peach-cat-mochi-peach-cat.gif" width="50"/> Quero ver estatísticas!</h3></summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nick290612&show_icons=true&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Estatísticas do GitHub" width="50%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick290612&layout=pie&show_icons=true&theme=dracula" alt="Linguagens mais usadas" width="27.3%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Nickzindev&show_icons=true&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Estatísticas do GitHub" width="50%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickzindev&layout=pie&show_icons=true&theme=dracula" alt="Linguagens mais usadas" width="27.3%"/>
   </p>
 </details>
 
