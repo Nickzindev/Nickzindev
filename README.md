@@ -89,5 +89,5 @@
 <div align="center">
   <h4>🌟 Sinta-se à vontade para explorar meus projetos, contribuir ou reutilizar meus códigos! 🌟</h4>
   <!-- Because I will never give you up, never let you down, or abandon you. I will never make you cry, say goodbye, or tell a lie and hurt you... -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nick290612&theme=dracula" alt="Resumo do Perfil" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nickzindev&theme=dracula" alt="Resumo do Perfil" align="center">
 </div>
