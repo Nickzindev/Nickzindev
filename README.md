@@ -5,11 +5,11 @@
 
 --------
 
-<h4 align="center">
-    🌱 Atualmente estou me aprofundando em Node.js  (javascript)
-    👀 Eu me interesso em bots de WhatsApp.  
-    📫 Se quiser entrar em contato comigo, tem o meu Discord ou WhatsApp.  
-    🗺️ Meu objetivo é criar meu próprio bot de WhatsApp, criar scripts e etc.
+<h5>🌱 Atualmente estou me aprofundando em Node.js (javascript)<h5>
+    <h5> 👀 Eu me interesso em bots de WhatsApp.<h5>
+         <h5>📫 Se quiser entrar em contato comigo, tem o meu Discord ou WhatsApp.<h5>
+              <h5>🗺️ Meu objetivo é criar meu próprio bot de WhatsApp, criar scripts e etc.<h5>
+                   <h5><a href="github.com/Lilybotia/" target="_blank">🤖 Rede social do github da Minha bot: Lily</a><h5>
 </h4>
 
 --------
