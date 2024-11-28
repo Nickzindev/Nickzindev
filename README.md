@@ -65,7 +65,7 @@
   
   <h5>💡 Minha paixão por tecnologia começou cedo, e hoje estou profundamente envolvido no desenvolvimento de projetos inovadores, especialmente focados em automação e bots para WhatsApp.</h5>
   
-  <h5>🤖 Sou criador da <strong>Lily bot</strong>, um bot para WhatsApp que simplifica a comunicação diária. Você pode conhecer mais sobre o projeto visitando o <a href="https://nick290612.github.io/Lily-site/" target="_blank">site oficial</a>.</h5>
+  <h5>🤖 Sou criador da <strong>Lily bot</strong>, um bot para WhatsApp que simplifica a comunicação diária. Você pode conhecer mais sobre o projeto visitando o <a href="https://lilybotia.github.io/Lily-site/" target="_blank">site oficial</a>.</h5>
 
   <h5>🔍 Se você está procurando um desenvolvedor interessado em soluções criativas de automação e bots, sou a pessoa certa! Continuo aprendendo e expandindo meus conhecimentos em Node.js, JavaScript e outras tecnologias de ponta.</h5>
 </div>
