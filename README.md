@@ -19,7 +19,7 @@
     <a href="https://discordapp.com/users/1122152253768351845">
         <img alt="Discord" src="https://img.shields.io/badge/Discord-7785cc?logo=discord&logoColor=white&style=for-the-badge"/>
     </a>
-    <a href="https://wa.me/19997821326">
+    <a href="https://wa.me/19998621756">
         <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"/>
           <a href="https://github.com/Nicolas4822">
         <img alt="GitHub" src="https://img.shields.io/badge/Github-24292e?logo=github&logoColor=white&style=for-the-badge"/>
