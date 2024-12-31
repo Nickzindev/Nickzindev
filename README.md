@@ -21,7 +21,7 @@
     </a>
     <a href="https://wa.me/19998621756">
         <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"/>
-          <a href="https://github.com/Nicolas4822">
+          <a href="https://github.com/Nickzindev">
         <img alt="GitHub" src="https://img.shields.io/badge/Github-24292e?logo=github&logoColor=white&style=for-the-badge"/>
     </a>
     <a href="https://t.me/Nick4822">
