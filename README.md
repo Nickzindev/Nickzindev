@@ -24,7 +24,7 @@
           <a href="https://github.com/Nickzindev">
         <img alt="GitHub" src="https://img.shields.io/badge/Github-24292e?logo=github&logoColor=white&style=for-the-badge"/>
     </a>
-    <a href="https://t.me/Nick4822">
+    <a href="https://www.google.com/search?client=opera-gx&q=Mais+pra+frente+irei+publicar+o+teleegram+novamente.&sourceid=opera&ie=UTF-8&oe=UTF-8">
         <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge"/>
       <div align="center">
       </a>
