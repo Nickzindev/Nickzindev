@@ -19,15 +19,11 @@
     <a href="https://discordapp.com/users/1122152253768351845">
         <img alt="Discord" src="https://img.shields.io/badge/Discord-7785cc?logo=discord&logoColor=white&style=for-the-badge"/>
     </a>
-    <a href="https://wa.me/19998621756">
+    <a href="https://wa.me/19996615202">
         <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"/>
           <a href="https://github.com/Nickzindev">
         <img alt="GitHub" src="https://img.shields.io/badge/Github-24292e?logo=github&logoColor=white&style=for-the-badge"/>
     </a>
-    <a href="https://www.google.com/search?client=opera-gx&q=Mais+pra+frente+irei+publicar+o+telegram+novamente.&sourceid=opera&ie=UTF-8&oe=UTF-8">
-        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge"/>
-      <div align="center">
-      </a>
   </p>
 </details>
 
@@ -65,7 +61,7 @@
   
   <h5>💡 Minha paixão por tecnologia começou cedo, e hoje estou profundamente envolvido no desenvolvimento de projetos inovadores, especialmente focados em automação e bots para WhatsApp.</h5>
   
-  <h5>🤖 Sou criador da <strong>Lily bot</strong>, um bot para WhatsApp que simplifica a comunicação diária. Você pode conhecer mais sobre o projeto visitando o <a href="https://lilybotia.github.io/Lily-site/" target="_blank">site oficial</a>.</h5>
+  <h5>🤖 Sou criador da <strong>Lily bot</strong>, um bot para WhatsApp que simplifica a comunicação diária. Você pode conhecer mais sobre o projeto visitando o <a href="https://whatsapp.com/channel/0029VaMSrNv84Om3Uj9yzF47" target="_blank">site oficial</a>.</h5>
 
   <h5>🔍 Se você está procurando um desenvolvedor interessado em soluções criativas de automação e bots, sou a pessoa certa! Continuo aprendendo e expandindo meus conhecimentos em Node.js, JavaScript e outras tecnologias de ponta.</h5>
 </div>
