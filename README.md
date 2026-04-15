@@ -15,11 +15,10 @@
 <details>
   <summary><h3><img src="https://media.tenor.com/_mYZWyrW3AUAAAAi/peach-goma-pc-night-keyboard-smashing.gif" width="50"/> Onde te encontrar?</h3></summary>
   <h5 align="center">Responderei mais rápido no WhatsApp e Discord, nas outras irei demorar mais</h5>
-  <p align="center">
-    <a href="https://discordapp.com/users/1122152253768351845">
-        <img alt="Discord" src="https://img.shields.io/badge/Discord-7785cc?logo=discord&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://wa.me/19996615202">
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/1122152253768351845?bg=1a082f&borderRadius=10px&idleMessage=dd&theme=dark&hideActivity=true"> <br/><br/>
+</p> 
+    <a href="https://wa.me/5519996615202">
         <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"/>
           <a href="https://github.com/Nickzindev">
         <img alt="GitHub" src="https://img.shields.io/badge/Github-24292e?logo=github&logoColor=white&style=for-the-badge"/>
@@ -33,7 +32,6 @@
   <summary><h3><img src="https://media.tenor.com/akBy6qWGjs4AAAAi/peach-cat-mochi-peach-cat.gif" width="50"/> Linguagens que voce sabe um pouco? </h3></summary>
   <h4 align="center">Algumas linguagens estara abaixo!</h4>
     <img align="center" alt="Nick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Nick-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo">
   </p>
 </details>
 
@@ -67,21 +65,3 @@
 </div>
   </p>
 </details>
-
----
-
-<details>
-  <summary><h3><img src="https://media.tenor.com/akBy6qWGjs4AAAAi/peach-cat-mochi-peach-cat.gif" width="50"/> Quero ver estatísticas!</h3></summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nickzindev&show_icons=true&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Estatísticas do GitHub" width="50%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickzindev&layout=pie&show_icons=true&theme=dracula" alt="Linguagens mais usadas" width="27.3%"/>
-  </p>
-</details>
-
----
-
-<div align="center">
-  <h4>🌟 Sinta-se à vontade para explorar meus projetos, contribuir ou reutilizar meus códigos! 🌟</h4>
-  <!-- Because I will never give you up, never let you down, or abandon you. I will never make you cry, say goodbye, or tell a lie and hurt you... -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nickzindev&theme=dracula" alt="Resumo do Perfil" align="center">
-</div>
