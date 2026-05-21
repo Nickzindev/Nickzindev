@@ -1,67 +1,116 @@
 <p align="center">
-    <img src="https://i.imgur.com/K5P22VM.gif" width="250" height="250" alt="Nick"/>
-    <h3 align="center">Olá, me chamo Nick, ou Nicolas</h3>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7308Ef&height=120&section=header"/>
 </p>
 
---------
-
-<h5>🌱 Atualmente estou me aprofundando em Node.js (javascript)<h5>
-    <h5> 👀 Eu me interesso em bots de WhatsApp.<h5>
-         <h5>📫 Se quiser entrar em contato comigo, tem o meu Discord ou WhatsApp.<h5>
-              <h5>🗺️ Meu objetivo é criar meu próprio bot de WhatsApp, criar scripts e etc.<h5>
-
---------
-
-<details>
-  <summary><h3><img src="https://media.tenor.com/_mYZWyrW3AUAAAAi/peach-goma-pc-night-keyboard-smashing.gif" width="50"/> Onde te encontrar?</h3></summary>
-  <h5 align="center">Responderei mais rápido no WhatsApp e Discord, nas outras irei demorar mais</h5>
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1122152253768351845?bg=1a082f&borderRadius=10px&idleMessage=dd&theme=dark&hideActivity=true"> <br/><br/>
-</p> 
-    <a href="https://wa.me/5519996615202">
-        <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"/>
-          <a href="https://github.com/Nickzindev">
-        <img alt="GitHub" src="https://img.shields.io/badge/Github-24292e?logo=github&logoColor=white&style=for-the-badge"/>
-    </a>
-  </p>
-</details>
+  <img src="https://i.imgur.com/K5P22VM.gif" width="160" height="160" alt="Nick" style="border-radius: 50%; border: 3px solid #9D4EDD; box-shadow: 0px 0px 20px #7B2CBF;"/>
+</p>
 
---------
+<h1 align="center">Olá, me chamo Nick</h1>
 
-<details>
-  <summary><h3><img src="https://media.tenor.com/akBy6qWGjs4AAAAi/peach-cat-mochi-peach-cat.gif" width="50"/> Linguagens que voce sabe um pouco? </h3></summary>
-  <h4 align="center">Algumas linguagens estara abaixo!</h4>
-    <img align="center" alt="Nick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </p>
-</details>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=9B5DE5&center=true&vCenter=true&width=450&lines=Programador+Node.js;Criador+da+LilyBot;Criador+da+galaxhost.com;Apaixonado+por+Automacao" alt="Typing SVG" />
+</p>
 
-------
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Nickzindev?label=Seguidores&style=for-the-badge&color=7B2CBF&labelColor=1A082F" alt="Seguidores">
+  <img src="https://img.shields.io/github/stars/Nickzindev?label=Stars&style=for-the-badge&color=9D4EDD&labelColor=1A082F" alt="Stars">
+</p>
 
-<details>
-  <summary><h3><img src="https://media.tenor.com/akBy6qWGjs4AAAAi/peach-cat-mochi-peach-cat.gif" width="50"/> Sofware que voce usa? </h3></summary>
-  <h4 align="center">Eu uso todos esses aplicativos para programar!</h4>
-    <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-  </p>
-</details>
-
--------
-
-<details>
-  <summary><h3><img src="https://media.tenor.com/akBy6qWGjs4AAAAi/peach-cat-mochi-peach-cat.gif" width="50"/> Informações sobre mim </h3></summary>
 <div align="center">
-  <h4>👨‍💻 Desenvolvedor de software apaixonado por tecnologia, astronomia e ciências.</h4>
-  
-  <h5>💡 Minha paixão por tecnologia começou cedo, e hoje estou profundamente envolvido no desenvolvimento de projetos inovadores, especialmente focados em automação e bots para WhatsApp.</h5>
-  
-  <h5>🤖 Sou criador da <strong>Lily bot</strong>, um bot para WhatsApp que simplifica a comunicação diária. Você pode conhecer mais sobre o projeto visitando o <a href="https://whatsapp.com/channel/0029VaMSrNv84Om3Uj9yzF47" target="_blank">site oficial</a>.</h5>
-
-  <h5>🔍 Se você está procurando um desenvolvedor interessado em soluções criativas de automação e bots, sou a pessoa certa! Continuo aprendendo e expandindo meus conhecimentos em Node.js, JavaScript e outras tecnologias de ponta.</h5>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
-  </p>
+
+## Sobre mim
+
+**Sou programador focado em Node.js, criação de bots de Plataformas, hospedagem web, e tecnologia em geral!**
+
+* ⚙️ **O que eu faço:** *Criação de Bots, Hospedagem web, APIs, e tecnologia em geral!*
+* 🐧 **Meu sistema:** *Gosto de testar todo tipo de Sistema, mas atualmente estou usando ArchLinux!.*
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
+
+## 🛠️ Minhas tecnologias
+
+<details>
+<summary>💻 Linguagens</summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-1A082F?style=for-the-badge&logo=javascript&logoColor=9D4EDD"/>
+  <img src="https://img.shields.io/badge/Node.js-1A082F?style=for-the-badge&logo=nodedotjs&logoColor=9D4EDD"/>
+    <img src="https://img.shields.io/badge/TypeScript-1A082F?style=for-the-badge&logo=typescript&logoColor=9D4EDD"/>
+</p>
 </details>
+
+<details>
+<summary>🧰 Ferramentas</summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-1A082F?style=for-the-badge&logo=acode&logoColor=9D4EDD"/>
+  <img src="https://img.shields.io/badge/Git-1A082F?style=for-the-badge&logo=git&logoColor=9D4EDD"/>
+  <img src="https://img.shields.io/badge/GitHub-1A082F?style=for-the-badge&logo=github&logoColor=9D4EDD"/>
+</p>
+</details>
+
+<details>
+<summary>🤖 Assistentes</summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Copilot-1A082F?style=for-the-badge&logo=githubcopilot&logoColor=9D4EDD"/>
+  <img src="https://img.shields.io/badge/Gemini-1A082F?style=for-the-badge&logo=googlegemini&logoColor=9D4EDD"/>
+</p>
+</details>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
+
+## 🚀 Meus principais projetos
+
+<details>
+<summary>🌌 GalaxHost</summary>
+<br>
+Minha hospedagem de sites, bots, projetos web, e jogos. Focada totalmente em alto desempenho, estabilidade, e baixo ping para clientes! Com servidores do Brasil! (SP)
+<br><br>
+Conheça o site: <a href="https://galaxhost.com" target="_blank">GalaxHost.com</a>
+</details>
+
+<details>
+<summary>🌸 LilyBot</summary>
+<br>
+Minha assistente virtual focada em automação para o WhatsApp. Desenvolvida do zero em Node.js usando lógica avançada para conseguir processar milhares de mensagens e comandos ao mesmo tempo sem dar erros ou travar.
+<br><br>
+Acompanhe o projeto: <a href="https://whatsapp.com/channel/0029VaMSrNv84Om3Uj9yzF47" target="_blank">Canal Oficial</a>
+</details>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
+
+## 📈 Status do Discord
+
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/1122152253768351845?bg=1a082f&borderRadius=10px&idleMessage=Offline+no+momento...&theme=dark&hideActivity=false" alt="Status do Discord" width="400">
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
+
+## 📫 Contato e Redes Sociais
+
+Se quiser fechar alguma parceria, tirar dúvidas ou falar sobre automações, é só me chamar por um desses links:
+
+<p align="center">
+  <a href="https://wa.me/5519996615202" target="_blank">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-1A082F?logo=whatsapp&logoColor=25D366&style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/_mYZWyrW3AUAAAAi/peach-goma-pc-night-keyboard-smashing.gif" width="80" alt="Goma Code"/>
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7308Ef&height=120&section=footer"/>
