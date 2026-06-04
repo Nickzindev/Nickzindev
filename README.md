@@ -13,10 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Nickzindev?label=Seguidores&style=for-the-badge&color=7B2CBF&labelColor=1A082F" alt="Seguidores">
-  <img src="https://img.shields.io/github/stars/Nickzindev?label=Stars&style=for-the-badge&color=9D4EDD&labelColor=1A082F" alt="Stars">
-</p>
-
+ 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
