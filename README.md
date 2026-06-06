@@ -6,7 +6,12 @@
   <img src="https://i.imgur.com/K5P22VM.gif" width="160" height="160" alt="Nick" style="border-radius: 50%; border: 3px solid #9D4EDD; box-shadow: 0px 0px 20px #7B2CBF;"/>
 </p>
 
-<h1 align="center">Olá, me chamo Nick</h1>
+<h1 align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  Olá, me chamo Nick 
+  <img src="https://files.catbox.moe/neeyp1.png" width="25" alt="Verificado">
+</h1>
+
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=9B5DE5&center=true&vCenter=true&width=450&lines=Programador+Node.js;Criador+da+LilyBot;Criador+da+galaxhost.com;Apaixonado+por+Automacao" alt="Typing SVG" />
