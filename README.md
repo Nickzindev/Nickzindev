@@ -69,22 +69,36 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
-## 🚀 Meus principais projetos
+## 🚀 Meus Principais Projetos
 
 <details>
-<summary>🌌 GalaxHost</summary>
+<summary><b>🌌 GalaxHost</b></summary>
 <br>
-Minha hospedagem de sites, bots, projetos web, e jogos. Focada totalmente em alto desempenho, estabilidade, e baixo ping para clientes! Com servidores do Brasil! (SP)
-<br><br>
-Conheça o site: <a href="https://galaxhost.com" target="_blank">GalaxHost.com</a>
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <p align="center">Hospedagem de alto desempenho com servidores em SP. Foco em estabilidade, baixo ping e infraestrutura robusta para bots e jogos.</p>
+      <a href="https://galaxhost.com">
+        <img src="https://img.shields.io/badge/Acessar_Site-7308Ef?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 </details>
 
 <details>
-<summary>🌸 LilyBot</summary>
+<summary><b>🌸 LilyBot</b></summary>
 <br>
-Minha assistente virtual focada em automação para o WhatsApp. Desenvolvida do zero em Node.js usando lógica avançada para conseguir processar milhares de mensagens e comandos ao mesmo tempo sem dar erros ou travar.
-<br><br>
-Acompanhe o projeto: <a href="https://whatsapp.com/channel/0029VaMSrNv84Om3Uj9yzF47" target="_blank">Canal Oficial</a>
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <p align="center">Assistente virtual para WhatsApp criada do zero em Node.js. Alta performance, processamento assíncrono e lógica avançada.</p>
+      <a href="https://whatsapp.com/channel/0029VaMSrNv84Om3Uj9yzF47">
+        <img src="https://img.shields.io/badge/Acompanhar_Canal-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 </details>
 
 <div align="center">
